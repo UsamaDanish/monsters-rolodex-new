@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UsamaDanish/monsters-rolodex/static/css/main.1c99ee08.chunk.css",
+    "main.js": "/UsamaDanish/monsters-rolodex/static/js/main.ea0eefe2.chunk.js",
+    "main.js.map": "/UsamaDanish/monsters-rolodex/static/js/main.ea0eefe2.chunk.js.map",
+    "runtime-main.js": "/UsamaDanish/monsters-rolodex/static/js/runtime-main.12cab700.js",
+    "runtime-main.js.map": "/UsamaDanish/monsters-rolodex/static/js/runtime-main.12cab700.js.map",
+    "static/js/2.a998f851.chunk.js": "/UsamaDanish/monsters-rolodex/static/js/2.a998f851.chunk.js",
+    "static/js/2.a998f851.chunk.js.map": "/UsamaDanish/monsters-rolodex/static/js/2.a998f851.chunk.js.map",
+    "index.html": "/UsamaDanish/monsters-rolodex/index.html",
+    "precache-manifest.14d85d2b91da21811db3085129c68f18.js": "/UsamaDanish/monsters-rolodex/precache-manifest.14d85d2b91da21811db3085129c68f18.js",
+    "service-worker.js": "/UsamaDanish/monsters-rolodex/service-worker.js",
+    "static/css/main.1c99ee08.chunk.css.map": "/UsamaDanish/monsters-rolodex/static/css/main.1c99ee08.chunk.css.map",
+    "static/js/2.a998f851.chunk.js.LICENSE.txt": "/UsamaDanish/monsters-rolodex/static/js/2.a998f851.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12cab700.js",
+    "static/js/2.a998f851.chunk.js",
+    "static/css/main.1c99ee08.chunk.css",
+    "static/js/main.ea0eefe2.chunk.js"
+  ]
+}
